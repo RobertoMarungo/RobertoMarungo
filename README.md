@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobertoMarungo
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Full Stack Development at Flatiron School
+- 🌱 I’m currently learning Full Stack Development 
 - 💞️ I’m looking to collaborate on Open source projects 
 - 📫 How to reach me robmarung.dev@gmail.com
 
